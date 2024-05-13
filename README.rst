@@ -68,7 +68,13 @@ Result
 .. image:: https://github.com/bwang40/OV7670_NEXYS4DDR_HDL/blob/master/images/IMG_4587.JPG
 
 
-
+Extra Information : 
+In block design
+clocking wizard IP: clk_out_2 is 25MHZ.
+Block Memory Genrator IP: 
+Tab BAsic : Mode: Standalone, Memory Type : Simple Dual Port RAM.
+Tab Port A options : Port A Width : 12, Port A Depth : 262144. Enable port type: Always Enabled
+Tab Port B options : Port B Width : 12, Port A Depth : 262144. Enable port type: Always Enabled
 
 
 Summary
